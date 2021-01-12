@@ -1,1 +1,1 @@
-# DNA-Classifier
+# DNA-Sequencing-Classifier
